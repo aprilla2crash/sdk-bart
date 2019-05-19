@@ -1,0 +1,3 @@
+- write library to access kodi.
+- design screen
+- get the messaging working from watch to phone
